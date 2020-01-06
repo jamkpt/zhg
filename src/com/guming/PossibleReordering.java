@@ -9,6 +9,10 @@ public class PossibleReordering {
         /*if(i==(++j)&&(i++)==j){
             i+=j;
         }*/
+
+
+
+        System.out.println(5);
         System.out.println(i);
     }
 }
